@@ -3,5 +3,4 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@igaryakqwe](https://t.me/igaryakqwe)</code>
