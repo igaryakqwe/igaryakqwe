@@ -2,5 +2,5 @@
 <code>👷 Speciality: Software engineer / Frontend</code>
 <code>💡 [Skills](SKILLS.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: HTML CSS JS node.js</code>
 <code>💬 telegram: [@igaryakqwe](https://t.me/igaryakqwe)</code>
